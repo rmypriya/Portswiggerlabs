@@ -1,7 +1,0 @@
-Topics Completed:
-1.JWT tokens
-2.HTTP smuggling
-3.SSRF
-4.SSTI
-5.CORS
-6.Clickjacking.
